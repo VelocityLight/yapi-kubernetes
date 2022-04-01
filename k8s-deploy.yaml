@@ -50,7 +50,7 @@ spec:
           env:
             # yapi admin account: ymfe.org login-in to update
             - name: YAPI_ADMIN_ACCOUNT
-              value: "admin@qq.com"
+              value: "admin@pingcap.com"
             - name: YAPI_ADMIN_PASSWORD
               value: "admin123"
             - name: YAPI_CLOSE_REGISTER
